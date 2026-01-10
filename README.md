@@ -36,7 +36,7 @@ The optimal **K=3 clusters** are identified, representing:
 
 ## Results
 
-K-Means clustering achieves the highest silhouette score (**0.283**) and provides clear, actionable categories for aid allocation. The analysis identifies priority countries and proposes a data-driven budget distribution proportional to need severity.
+K-Means clustering with **K=3** is selected as the optimal solution, achieving a silhouette score of **0.283**. While K=5 shows a marginally higher score (0.299), K=3 is chosen for its superior balance of statistical performance, business interpretability, and operational simplicity. The analysis identifies priority countries and proposes a data-driven budget distribution proportional to need severity, with three clear categories that align with international development classifications.
 
 ## Dataset Variables
 
