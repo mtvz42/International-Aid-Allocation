@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The goal of this notebook is to apply unsupervised learning techniques to identify countries in greatest need of humanitarian assistance. The dataset contains socio-economic and health indicators for 167 countries.
+The goal of this project is to apply unsupervised learning techniques to identify countries in greatest need of humanitarian assistance. The dataset contains socio-economic and health indicators for 167 countries.
 
 **Dataset Source:** [Kaggle - Unsupervised Learning on Country Data](https://www.kaggle.com/datasets/rohan0301/unsupervised-learning-on-country-data)
 
